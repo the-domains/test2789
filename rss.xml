@@ -4,8 +4,15 @@
         <description><![CDATA[Test2789]]></description>
         <link>https://thegrid.ai/test2789/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jan 2016 12:49:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jan 2016 12:49:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/test2789/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Test 2 van iets gepublished hoe werkt dat hier allemaal sech?</p>]]></description>
+            <link>https://thegrid.ai/test2789/5da41c44-1629-4b62-a8a1-91c41560562d/index.html</link>
+            <guid isPermaLink="false">5da41c44-1629-4b62-a8a1-91c41560562d</guid>
+            <pubDate>Sat, 09 Jan 2016 12:49:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b3245b2-0b8b-43c9-a751-185d08af01c6.jpg">]]></description>
